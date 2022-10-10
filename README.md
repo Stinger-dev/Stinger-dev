@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, XML, C++, HTML, SQL**
 
-- ⚡ Fun fact **Man, i just wanna a cappuccino**
+- **Man, i just wanna a cappuccino**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
