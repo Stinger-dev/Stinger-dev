@@ -5,7 +5,6 @@
 
 - **Man, i just wanna a cappuccino**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
