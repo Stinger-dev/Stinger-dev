@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **gonzalocallejasrojas@gmail.com**
 
+- Interested in game development 
+
 - English level: **B1**
 
 
