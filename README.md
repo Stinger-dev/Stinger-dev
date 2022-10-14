@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, XML, C++, HTML, SQL**
 
-- **Man, i just wanna a cappuccino**
+- **Man, i just wanna a ✨cappuccino✨**
 
 
 
