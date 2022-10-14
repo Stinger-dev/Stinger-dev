@@ -8,7 +8,7 @@
 
 
 
-- 📫 How to reach me **gonzalocallejasrojas@gmail.com**
+- 📫 How to reach me: **gonzalocallejasrojas@gmail.com**
 
 <p align="left">
 </p>
