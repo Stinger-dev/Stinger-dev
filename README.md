@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, XML, C++, HTML, SQL**
 
-- Interested in game development 
+- Full Stack interested in game development 
 
 - English level: **B1**
 
