@@ -18,7 +18,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stinger-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Stinger-dev" /> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stinger-dev&show_icons=true&theme=radical&locale=en" alt="stinger-dev" /></p>
 
 
 
