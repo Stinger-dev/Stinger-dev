@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate code student from Spain</h3>
 
-- 🌱 I’m currently learning **Python, XML, C++, HTML, SQL**
+- 🌱 I’m currently learning **Spring boot, Angulas and React**
 
-- Full Stack interested in game development 
+- Full Stack web developer interested in game development 
 
 - English level: **B1**
 
